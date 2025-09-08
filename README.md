@@ -22,7 +22,7 @@
 ```yaml
 name: Jaya Surya Putti
 located_in: Bengaluru, INDIA
-current_job: Backend Developer Intern
+current_job: Backend Developer
 education:
   [
     "Self-Taught Developer",
