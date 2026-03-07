@@ -52,8 +52,7 @@ skills:
                              "Node.js", "MongoDB", "Express.js", "React", "Material UI"]
 
 contact_information:
-  email: ["210020040@iitdh.ac.in", "jayasurya.workspace11@gmail.com"]
-  phone: "6305692471"
+  email: ["jayasurya.workspace11@gmail.com"]
   linkedin: "https://www.linkedin.com/in/jaya-surya-putti"
 
 ```
